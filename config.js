@@ -38,18 +38,18 @@ bearkey = 'https://pastelink.net/v20Md'
 ApiiKey = 'https://pastelink.net/v20Md'
 vinkey = 'vinko'
 
-namabot = 'Amdre Bot'
-namalu = 'Amdre'
-footer = '\n©Amdre'
+namabot = 'Andre Bot'
+namalu = 'Andre'
+footer = '\n©Andre'
 kasihcaption = `Nih Sayang`
 
 // Sticker WM
 global.stiker_wait = '_*Tunggu Sebentar...*_'
-global.packname = 'AmdreBot Multi device'
+global.packname = 'AndreBot Multi device'
 global.author = 'King Of Bear'
 global.email = 'drakipul1016@gmail.com'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wm = '©Amdre Bot-Md'
+global.wm = '©Andre Bot-Md'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 
 global.wait = '_*Tunggu Sebentar Sedang Di Proses...*_'
